@@ -22,3 +22,7 @@ kode tag yang digunakan adalah *<p>* untuk contoh kodingannya sebagai berikut
 berikut tampilan adalah tampilan pada browser
 
 ![gambar 4](img/ss2-1.png)
+
+### Mengatur atribut paragraf
+Berikut kode untuk mengatur atribut paragraf / align
+*Rata tengan : '<justify>'
