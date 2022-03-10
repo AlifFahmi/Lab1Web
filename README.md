@@ -25,4 +25,4 @@ berikut tampilan adalah tampilan pada browser
 
 ### Mengatur atribut paragraf
 Berikut kode untuk mengatur atribut paragraf / align
-*Rata tengan : '<justify>'
+<ol><li>1. List satu</li><li>2. List dua</li></ol>
