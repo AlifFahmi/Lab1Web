@@ -15,11 +15,11 @@ untuk kodingannya seperti ini
 
 ### Membuat paragraf
 Langkah selanjutnya membuat paragraf.
-kode tag yang digunakan adalah '<p>'
+kode tag yang digunakan adalah "<p>"
 untuk contoh kode nya sebagai berikut
 
-![gambar 3](img/ss2-1.png)
+![gambar 3](img/ss2-2.png)
 
 berikut tampilan adalah tampilan pada browser
 
-![gambar 4](img/ss2-2.png)
+![gambar 4](img/ss2-1.png)
