@@ -9,7 +9,7 @@ kode tag yang digunakan adalah '<title>'
 berikut tampilannya
 ![gambar 1](img/ss1-1.png)
 untuk kodingannya sebagai berikut
-![img](img/ss1-2.png)
+![gambar 2](img/ss1-2.png)
 
 ### Membuat Paragraf
 Langkah selanjutnya adalah membuat paragraf, kode tag untuk membuat paragraf adalah '<p>'.
