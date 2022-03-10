@@ -6,8 +6,8 @@ Latihan_1 9-3-2022
 ### Membuat judul Website
 langkah awal dari membuat website adalah membuat judul website.
 kode tag yang digunakan adalah '<title>'
-<br>berikut tampilannya</br>
-![img](img/ss1-1.png)
+berikut tampilannya
+![gambar 1](img/ss1-1.png)
 untuk kodingannya sebagai berikut
 ![img](img/ss1-2.png)
 
