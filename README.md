@@ -8,3 +8,6 @@ langkah awal dari membuat website adalah membuat judul website.
 kode tag yang digunakan adalah '<title>'
 berikut tampilannya
 ![gambar 1](img/ss1-1.png)
+
+untuk kodingannya seperti ini
+![gambar 2](img/ss1-2.png)
