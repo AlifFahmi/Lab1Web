@@ -12,3 +12,14 @@ berikut tampilannya
 untuk kodingannya seperti ini
 
 ![gambar 2](img/ss1-2.png)
+
+### Membuat paragraf
+Langkah selanjutnya membuat paragraf.
+kode tag yang digunakan adalah '<p>'
+untuk contoh kode nya sebagai berikut
+
+![gambar 3](img/ss2-1.png)
+
+berikut tampilan adalah tampilan pada browser
+
+![gambar 4](img/ss2-2.png)
