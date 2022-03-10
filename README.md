@@ -15,7 +15,7 @@ untuk kodingannya seperti ini
 
 ### Membuat paragraf
 Langkah selanjutnya membuat paragraf.
-kode tag yang digunakan adalah '<title>' untuk contoh kodingannya sebagai berikut
+kode tag yang digunakan adalah '<p>' untuk contoh kodingannya sebagai berikut
 
 ![gambar 3](img/ss2-2.png)
 
