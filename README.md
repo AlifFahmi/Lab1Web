@@ -91,3 +91,14 @@ untuk lebih jelasnya perhatikan kodingan berikut
 Untuk tampilan browser nya sebagai berikut
 
 ![gambar 3](img/ss7-1.png)
+
+### Menambahkan Hyperlink
+Link atau Hyperlink merupakan elemen HTML yang berfungsi untuk menghubungkan satu halaman web dengan halaman web yang lain, baik internal maupun eksternal, untuk kode tag nya `<a href="halaman web.html">Halaman web</a>`
+
+untuk contoh kodingannya sebagai berikut
+
+![gambar 3](img/ss8-2.png)
+
+Untuk tampilan browser nya sebagai berikut
+
+![gambar 3](img/ss8-1.png)
