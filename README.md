@@ -29,9 +29,11 @@ Berikut kode untuk mengatur atribut paragraf / align
 - Rata kanan        : `<p align=”right”>`
 - Rata kiri         : `<p align=”left”>`
 - Rata tengah       : `<p align=”center”>`
+
 untuk contoh kodingannya sebagai berikut
 
 ![gambar 3](img/ss3-2.png)
 
 Berikut adalah tampilan pada browser, dari gambar dibawah menunjukan Paragraf Pertama menunjukan rata tengah & Paragraf kedua menunjukan rata kanan
 
+![gambar 3](img/ss3-1.png)
