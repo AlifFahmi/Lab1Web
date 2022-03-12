@@ -39,10 +39,34 @@ Berikut adalah tampilan pada browser, dari gambar dibawah menunjukan Paragraf Pe
 ![gambar 3](img/ss3-1.png)
 
 ### Memberi Judul pada setiap paragraf
-Langkah selanjutnya adalah memberikan judul pada setiap paragraf, kode yang dipakai adalah `<h>` untuk contoh kodingannya sebegai berikut 
+Langkah selanjutnya adalah memberikan judul pada setiap paragraf, kode yang dipakai adalah `<h>` untuk contoh kodingannya sebagai berikut 
 
 ![gambar 3](img/ss4-2.png)
 
 Berikut adalah tampilan pada browser, dari gambar dibawah menunjukan Paragraf Pertama berjudul **Belajar Dasar HTML** dan paragraf kedua berjudul **Paragraf pada HTML**
 
 ![gambar 3](img/ss4-1.png)
+
+### Memformat Text
+Pemformatan text dilakukan untuk memodifikasi tampilan text pada browser supaya tampiplan text lebih menarik
+
+Untuk kode yang dipakai sebagai berikut :
+
+`<b>`         : Bold text
+`<strong>`    : Important text
+`<i>`         :Italic text
+`<em>`        :Emphasized text
+`<mark>`      :Marked text
+`<small>`     :Smaller text
+`<del>`       :Deleted text
+`<ins>`       :Inserted text
+`<sub>`       :Subscript text
+`<sup>`       :Superscript text
+
+untuk contoh kodingannya sebagai berikut
+
+![gambar 3](img/ss5-2.png)
+
+Untuk tampilan browser nya sebagai berikut
+
+![gambar 3](img/ss5-1.png)
