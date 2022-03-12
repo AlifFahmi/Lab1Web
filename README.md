@@ -52,16 +52,16 @@ Pemformatan text dilakukan untuk memodifikasi tampilan text pada browser supaya 
 
 Untuk kode yang dipakai sebagai berikut :
 
-`<b>`         : Bold text
-`<strong>`    : Important text
-`<i>`         :Italic text
-`<em>`        :Emphasized text
-`<mark>`      :Marked text
-`<small>`     :Smaller text
-`<del>`       :Deleted text
-`<ins>`       :Inserted text
-`<sub>`       :Subscript text
-`<sup>`       :Superscript text
+- `<b>`         : Bold text
+- `<strong>`    : Important text
+- `<i>`         :Italic text
+- `<em>`        :Emphasized text
+- `<mark>`      :Marked text
+- `<small>`     :Smaller text
+- `<del>`       :Deleted text
+- `<ins>`       :Inserted text
+- `<sub>`       :Subscript text
+- `<sup>`       :Superscript text
 
 untuk contoh kodingannya sebagai berikut
 
@@ -70,3 +70,24 @@ untuk contoh kodingannya sebagai berikut
 Untuk tampilan browser nya sebagai berikut
 
 ![gambar 3](img/ss5-1.png)
+
+### Menyisipkan Gambar dan Setting Size Gambar
+Untuk menyisipkan gambar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. Kode tag yang dipakai `<img src="nama.png" title="nama gambar">`
+
+untuk contoh kodingannya sebagai berikut
+
+![gambar 3](img/ss6-2.png)
+
+Untuk tampilan browser nya sebagai berikut
+
+![gambar 3](img/ss6-1.png)
+
+Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan. Kode tag yang dipakai `<img src="nama.png" width="200" title="nama gambar">`
+
+untuk lebih jelasnya perhatikan kodingan berikut
+
+![gambar 3](img/ss7-2.png)
+
+Untuk tampilan browser nya sebagai berikut
+
+![gambar 3](img/ss7-1.png)
