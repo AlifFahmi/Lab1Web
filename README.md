@@ -37,3 +37,12 @@ untuk contoh kodingannya sebagai berikut
 Berikut adalah tampilan pada browser, dari gambar dibawah menunjukan Paragraf Pertama menunjukan rata tengah & Paragraf kedua menunjukan rata kanan
 
 ![gambar 3](img/ss3-1.png)
+
+### Memberi Judul pada setiap paragraf
+Langkah selanjutnya adalah memberikan judul pada setiap paragraf, kode yang dipakai adalah `<h>` untuk contoh kodingannya sebegai berikut 
+
+![gambar 3](img/ss4-2.png)
+
+Berikut adalah tampilan pada browser, dari gambar dibawah menunjukan Paragraf Pertama berjudul **Belajar Dasar HTML** dan paragraf kedua berjudul **Paragraf pada HTML**
+
+![gambar 3](img/ss4-1.png)
